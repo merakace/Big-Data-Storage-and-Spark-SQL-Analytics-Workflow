@@ -1,0 +1,4 @@
+order_status,order_count,revenue
+Cancelled,114,729508.43
+Delivered,1011,7537661.77
+Returned,75,554234.05
